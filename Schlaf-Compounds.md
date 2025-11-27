@@ -1,8 +1,8 @@
 # Quellenangaben YouTube Video:
-
-👉 https://youtu.be/eEEki_Y_N80
+## 👉 https://youtu.be/eEEki_Y_N80
 
 ---
+
 ### Schlafqualität, REM- & Tiefschlaf vs. Schlafdauer
 
 **Meta-Analysen & Reviews (Schlafqualität vs. Schlafdauer)**  
@@ -55,7 +55,9 @@
 - SWS & REM mit komplementären Rollen bei Gedächtnistransformation  
   Liu J et al. Slow-wave sleep and REM sleep differentially contribute to memory representational transformation. Commun Biol. 2025;8(1):1407.  
   https://www.nature.com/articles/s42003-025-08812-3
+
 ---
+
 ### Trazodon (Low Dose)
 **Systematische Reviews & Primärstudien:**
 - Systematic Review – Wirksamkeit bei Insomnie  
@@ -71,13 +73,17 @@
     [https://www.nature.com/articles/s42003-022-03643-y](https://www.nature.com/articles/s42003-022-03643-y)
 - GH-Secretagogue Review – Sicherheit & Wirkung  
     [https://pmc.ncbi.nlm.nih.gov/articles/PMC5632578/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5632578/)
+
 ---
+
 ### DSIP (Delta Sleep-Inducing Peptide)
 - Doppelblind-RCT bei chronischer Insomnie  
     [https://pubmed.ncbi.nlm.nih.gov/1299794/](https://pubmed.ncbi.nlm.nih.gov/1299794/)
 - Humanstudie: endogenes DSIP & Schlafphasen  
     [https://www.sciencedirect.com/science/article/abs/pii/0196978195020276](https://www.sciencedirect.com/science/article/abs/pii/0196978195020276)
+
 ---
+
 ### Melatonin
 - Meta-Analyse (PLOS One): Einschlaflatenz ↓, Schlafqualität ↑  
     [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063773](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063773)
@@ -85,17 +91,23 @@
     [https://pubmed.ncbi.nlm.nih.gov/36179487/](https://pubmed.ncbi.nlm.nih.gov/36179487/)
 - Beobachtungsdaten: Langzeiteinnahme & Herzrisiko-Hypothese  
     [https://www.ahajournals.org/doi/10.1161/circ.148.suppl_1.12532](https://www.ahajournals.org/doi/10.1161/circ.148.suppl_1.12532)
+
 ---
+
 ### 5-HTP
 - RCT (2024): bessere Schlafqualität & Darmflora-Modulation  
     [https://www.sciencedirect.com/science/article/abs/pii/S0261561424000104](https://www.sciencedirect.com/science/article/abs/pii/S0261561424000104)
+
 ---
+
 ### Glycin
 - RCT: 3 g Glycin → bessere subjektive Schlafqualität & weniger Müdigkeit  
     [https://pmc.ncbi.nlm.nih.gov/articles/PMC3328957/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3328957/)
 - RCT: Verbesserte Tagesperformance trotz Schlafrestriktion  
     [https://drkumardiscovery.com/posts/effects-glycine-subjective-daytime-performance-partially-sleep-restricted-healthy/](https://drkumardiscovery.com/posts/effects-glycine-subjective-daytime-performance-partially-sleep-restricted-healthy/)
+
 ---
+
 ### L-Theanin
 - RCT: 400 mg L-Theanin verbessert Schlaf bei Jugendlichen  
     [https://pubmed.ncbi.nlm.nih.gov/22214254/](https://pubmed.ncbi.nlm.nih.gov/22214254/)
@@ -103,7 +115,9 @@
     [https://www.sciencedirect.com/science/article/pii/S1087079225000292](https://www.sciencedirect.com/science/article/pii/S1087079225000292)
 - AlphaWave-RCT: Verbesserte Schlafqualität & weniger Stress  
     [https://link.springer.com/article/10.1007/s40120-024-00624-7](https://link.springer.com/article/10.1007/s40120-024-00624-7)
+
 ---
+
 ### Kreatin & Schlafmangel
 - RCT (2024): bessere kognitive Performance nach 21h Schlafentzug  
     [https://www.nature.com/articles/s41598-024-54249-9](https://www.nature.com/articles/s41598-024-54249-9)
